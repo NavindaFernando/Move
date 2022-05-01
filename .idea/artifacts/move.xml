@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="move">
+    <output-path>$PROJECT_DIR$/out/artifacts/move</output-path>
+    <root id="archive" name="move.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Backend" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="JSON Processing" />
+          <element id="library" level="project" name="MYSQL Connector" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Backend/web/Web" />
+    </root>
+  </artifact>
+</component>
