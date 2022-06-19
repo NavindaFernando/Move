@@ -1,5 +1,5 @@
 <h3 align="center">
-Move Company
+Move :electric_plug:
 </h3>
 
 ![MacBook Pro 14_ - 4 (1)](https://user-images.githubusercontent.com/86073690/170723428-79f4a5bb-f399-4c9f-93bf-f4af37f73605.jpg)
@@ -7,7 +7,7 @@ Move Company
 ***
 
 <h6 align="center">
-dev environment
+dev environment :microscope:
 </h6>
 
 <div align="center">
@@ -15,7 +15,7 @@ dev environment
 </div>
 
 <h6 align="center">
-design environments
+design environments :art:
 </h6>
 
 <div align="center">
