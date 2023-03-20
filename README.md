@@ -7,7 +7,7 @@ Move :electric_plug:
 ***
 
 <h6 align="center">
-project proposal
+ppt
 </h6>
 
 ![PP](https://user-images.githubusercontent.com/86073690/224280692-b424280d-5106-4b3a-8e5d-ab5b1768a827.jpg)
